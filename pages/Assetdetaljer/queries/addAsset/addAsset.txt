@@ -1,0 +1,3 @@
+INSERT INTO asset 
+(id,type,image,make, model,serial_number,mac_address,ip_address,notes)
+VALUES ({{JSONForm2.formData.id}}, {{JSONForm2.formData.type}},{{JSONForm2.formData.image}}, {{JSONForm2.formData.make}},{{JSONForm2.formData.model}}, {{JSONForm2.formData.serial_number}},{{JSONForm2.formData.mac_address}}, {{JSONForm2.formData.ip_address}},{{JSONForm2.formData.notes}})

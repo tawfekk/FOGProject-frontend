@@ -1,0 +1,5 @@
+insert into assignment (asset_id, user_id, date_assigned, notes) values
+({{Table2.selectedRow.id}},
+ {{employeeList.selectedItem.id}},
+ {{JSObject1.getDate()}},
+{{Table2.selectedRow.notes}});

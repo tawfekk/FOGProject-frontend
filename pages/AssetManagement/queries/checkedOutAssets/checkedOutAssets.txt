@@ -1,0 +1,1 @@
+select count (*) from assignment where date_returned is null or date_returned = ''

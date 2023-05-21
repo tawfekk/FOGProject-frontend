@@ -1,0 +1,1 @@
+select * from asset order by id desc limit 25 offset {{(assetList.pageNo - 1) * assetList.pageSize}};

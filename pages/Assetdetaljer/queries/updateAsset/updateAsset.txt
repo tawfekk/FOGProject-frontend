@@ -1,0 +1,10 @@
+UPDATE asset
+SET type= {{assetDetailsForm.formData.type}},
+make= {{assetDetailsForm.formData.make}},
+model= {{assetDetailsForm.formData.model}},
+mac_address= {{assetDetailsForm.formData.mac_address}},
+serial_number= {{assetDetailsForm.formData.serial_number}},
+ip_address= {{assetDetailsForm.formData.ip_address}},
+image= {{assetDetailsForm.formData.image}},
+notes= {{assetDetailsForm.formData.notes}} 
+WHERE id={{assetDetailsForm.formData.id}};

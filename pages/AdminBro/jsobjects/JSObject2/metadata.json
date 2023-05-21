@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject2",
+    "pageId": "AdminBro",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "AdminBro_JSObject2",
+  "deleted": false,
+  "gitSyncId": "645bc549720a051254a89752_645d337b70f884679f052405"
+}

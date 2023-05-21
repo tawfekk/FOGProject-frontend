@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Assetmgmt",
+    "pageId": "Medarbejdere",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Medarbejdere_Assetmgmt",
+  "deleted": false,
+  "gitSyncId": "645bc549720a051254a89752_645d43bc70f884679f052436"
+}

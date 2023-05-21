@@ -1,0 +1,1 @@
+SELECT * FROM users JOIN assignment ON users.id = assignment.user_id JOIN asset ON assignment.asset_id = asset.id WHERE first_name={{employeeList.selectedItem.first_name}} LIMIT 10 offset {{(assetsAssigned.pageNo - 1) * assetsAssigned.pageSize}};

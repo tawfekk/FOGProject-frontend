@@ -1,0 +1,4 @@
+{
+    "taskTypeID":  13,
+    "deploySnapins":  {{Select2.selectedOptionValue}}
+}

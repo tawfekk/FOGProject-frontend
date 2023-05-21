@@ -1,0 +1,1 @@
+select department as x, count (*) as y from users where status='active'  group by department 

@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "select",
+    "pageId": "InstallBro",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "InstallBro_select",
+  "deleted": false,
+  "gitSyncId": "645bc549720a051254a89752_645bc7d1720a051254a89760"
+}

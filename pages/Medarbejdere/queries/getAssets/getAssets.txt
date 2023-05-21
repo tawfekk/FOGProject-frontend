@@ -1,0 +1,1 @@
+select * from asset ORDER BY id ASC LIMIT 10 offset {{(Table2.pageNo - 1) * Table2.pageSize}};

@@ -1,0 +1,1 @@
+select type, make as x, count(*) as y from asset  where type = {{appsmith.store.type.x}} group by type, make order by y

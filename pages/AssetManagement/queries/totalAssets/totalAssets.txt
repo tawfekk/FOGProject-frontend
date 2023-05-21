@@ -1,0 +1,1 @@
+SELECT COUNT ( DISTINCT model ) as numberOfAssets FROM asset;
